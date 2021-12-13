@@ -3,9 +3,6 @@ import React from "react";
 const Comments = (props) => {
   const { comments } = props;
 
-  console.log(comments);
-  console.log(!comments.length);
-
   return (
     <div className="p-3">
       <h3>Comments</h3>
