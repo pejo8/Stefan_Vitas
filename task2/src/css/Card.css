@@ -1,0 +1,23 @@
+.card {
+  width: 10%;
+  cursor: pointer;
+}
+.card_row_1 {
+  display: flex;
+}
+
+.card_row_2 {
+  display: flex;
+}
+
+.card_row_3 {
+  display: flex;
+}
+
+.card_row_4 {
+  display: flex;
+}
+
+.card_row_5 {
+  display: flex;
+}
